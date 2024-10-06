@@ -9,7 +9,6 @@ Welcome to the **C Language Programs for Beginners** repository! This repository
 - [Programs Included](#programs-included)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
