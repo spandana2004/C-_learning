@@ -1,6 +1,3 @@
-Here’s the complete `README.md` file formatted in Markdown:
-
-```markdown
 # C Language Programs for Beginners
 
 Welcome to the **C Language Programs for Beginners** repository! This repository contains a collection of basic and moderate-level C programs designed to help beginners learn and practice programming in C.
@@ -25,8 +22,6 @@ To get started with the programs in this repository, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/username/repository.git
-   ```
-   Replace `username` and `repository` with your GitHub username and the name of this repository.
 
 2. **Navigate to the Directory**:
    ```bash
